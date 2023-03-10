@@ -8,20 +8,18 @@ You have two integers, either positive or negative, and the challenge is to gene
 
 
 def find_the_largest_number (int:number_1, int ,number_2):
-     “””
- number_1 : integer value that is the first parameter to the function,
-number_2 : integer value that is the second parameter to the function.
-Return the largest number between number_1 and number_2
-     “””
 
-     # use a framework that works with quantum circuits, qiskit, cirq, pennylane, etc. 
-
-      # consider print your quantum circuit,
+   number_1 : integer value that is the first parameter to the function,
+   
+   number_2 : integer value that is the second parameter to the function.
+   
+   Return the largest number between number_1 and number_2
 
 
 Example:
 
 A = find_the_largest_number(5,-6)
+
 print(A)
 
 “5”
