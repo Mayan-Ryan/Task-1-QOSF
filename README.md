@@ -26,7 +26,7 @@ print(A)
 
 ### Implementation
 
-To solve this problem, I made use of Qiskit. I also used IBM quantum composer to visualize the circuit. The logic of the program is basically to create a combinational  circuit that first checks if a number is positive or negative, assigns qubit to store and retain the sign magnitude and performs compare operation accordingly. 
+To solve this problem, I made use of Qiskit. I also used IBM quantum composer to visualize the circuit. The logic of the program is basically to create a combinational  circuit that first checks if a number is positive or negative, assigns qubit to store the sign magnitude and the absolute value of the bit number and performs compare operation accordingly while retaining the sign of the number.
 
 
 
